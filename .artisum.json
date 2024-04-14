@@ -1,0 +1,26 @@
+{
+    "urls": [
+		"https://zenn.dev/feed",
+		"https://qiita.com/popular-items/feed.atom",
+		"https://medium.com/feed/tag/golang",
+		"https://medium.com/feed/tag/architecture"
+    ],
+    "tags": [
+		{
+			"name":  "golang",
+			"level": 3
+		},
+		{
+			"name":  "security",
+			"level": 3
+		},
+        {
+            "name":  "react",
+            "level": 3
+        },
+		{
+			"name":  "Architecture",
+			"level": 3
+		}
+    ]
+}
